@@ -102,4 +102,7 @@ theme: starter
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/tender0223/tender0223.git
+  branch: main
+  
